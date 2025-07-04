@@ -1,6 +1,10 @@
 # My "GitHub Pages" Website
 
-This repo hosts my GitHub Pages website, started in 2025.
+This repo hosts my GitHub Pages website, started in 2025 -- you can visit the site at any one of these equivalent URLs:
+
+- https://tommypkeane.com
+- https://www.tommypkeane.com
+- https://tommypkeane.github.io
 
 ## Developer Setup
 
@@ -38,6 +42,8 @@ And then you'll also need the following `CAA` Records to get HTTPS functionality
 If you went to the `Settings` menu for your GitHub repo and went to the `Pages` sidebar menu, and you already put in the `Custom Domain` entry before updating the DNS records as listed above, then you will need to remove the domain, and add it again.
 
 After you press `Save`, then it will take like 20-ish minutes for GitHub to generate and provision an HTTPS Certificate for your site, so while your DNS records may get set and propagated relatively quickly, it could take noticeably longer until the HTTPS Certificate is generated.
+
+> ⚠️ Note that you will want to make sure to ___not___ navigate away from the page until all 3 steps of the Certificate deploy are completed, otherwise it might interrupt background services and cause the certificate to fail to be configured.
 
 Note also that you will have to have a `CNAME` file saved into your repository (like you'll see in this repo), and it needs to have the same value as you've put into the `Custom Domain` field in the GitHub `Pages` section under your repository `Settings`.
 
