@@ -16,6 +16,7 @@ This repo hosts my GitHub Pages website, started in 2025 -- you can visit the si
 	- [DNS Setup](#dns-setup)
 - [Repository Directory Tree](#repository-directory-tree)
 - [License and Copyright](#license-and-copyright)
+	- [Images, Documents, and Artworks](#images-documents-and-artworks)
 - [References](#references)
 
 <!-- /MarkdownTOC -->
@@ -94,8 +95,15 @@ Note also that you will have to have a `CNAME` file saved into your repository (
 
 See the `LICENSE` file.
 
+<a id="images-documents-and-artworks"></a>
+### Images, Documents, and Artworks
+
+Unless otherwise specified, all imagery, documents, and artwork provided in this repository were created by Tommy P. Keane, who retains all copyright per the licensing details in this repository.
+
 <a id="references"></a>
 ## References
 
 - https://docs.github.com/en/pages
-- ...
+- https://www.aseprite.org/ purchased and used for Pixel Art development
+- https://www.sublimetext.com/ purchased and used for coding as a text editor (and lightweight IDE)
+- https://www.sublimemerge.com/ purchased and used for interacting with Git as version control for this repository
