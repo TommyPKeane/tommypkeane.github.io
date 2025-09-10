@@ -1,3 +1,87 @@
+/* Common Site Styling */
+@import "/styles/common.css" layer(tommypkeane);
+
 #site-body {
+	background-color: #5A8FC977;
+}
+
+#site-header {
+	width: 100%;
 	background-image: url("images/tommypkeane-com_header_1920x1080_web.svg");
+	background-color: transparent;
+}
+
+@layer pagespecific {
+  #introContainer {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #header-catchphrase {
+    font-family: "Yeseva One";
+    font-size: 2rem;
+  }
+
+  #introContainer p {
+    line-height: 1.5;
+    font-size: 1.25rem;
+    font-family: "Bellota Text", sans-serif;
+  }
+
+  #github-link-container {
+    width: 12vw;
+    min-width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #github-link-elm {
+    width: auto;
+    text-decoration: none;
+    color: inherit;
+    font-family: "Bellota Text", sans-serif;
+  }
+
+  #github-link-elm:hover figure {
+    box-shadow: -2px 2px 5px rgb(0, 20, 20);
+  }
+
+  #github-link-elm:hover p {
+    font-weight: 700;
+  }
+
+  #github-link-fig {
+    width: 10vw;
+    min-width: 120px;
+    padding: 0.25rem;
+    border-radius: 0.75rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #github-link-fig img {
+    width: 90%;
+  }
+
+  .introFlexContainer {
+    display: flex;
+    flex-direction: row;
+    max-height: 35vw;
+    justify-content: space-evenly;
+  }
+
+  .profilePicContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-grow: 2;
+  }
+
+  .profilePicContainer img {
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 100%;
+    width: 70%;
+  }
 }
