@@ -6,10 +6,10 @@ import {
   updateFigureCaptions,
 } from "/modules/figures.js";
 import {
-  setupFeatherJs,
+  // setupFeatherJs,
   setupHighlightJs,
-  setupKatexJs,
-  setupMermaidJs,
+  // setupKatexJs,
+  // setupMermaidJs,
 } from "/modules/libraries.js";
 
 
@@ -19,13 +19,13 @@ export const runCommonPageUpdates = function hstRunCommonPageUpdates() {
   console.group("Look Away!");
   console.log("There's nothing here, sorry...");
   buildSiteHeader();
-  buildSiteFooter();
-  updateFigureCaptions();
-  updateCodeFiguresWithLineNumbers();
+  // buildSiteFooter();
+  // updateFigureCaptions();
+  // updateCodeFiguresWithLineNumbers();
   // Libraries
-  setupFeatherJs();
+  // setupFeatherJs();
   setupHighlightJs();
-  setupKatexJs();
-  setupMermaidJs();
+  // setupKatexJs();
+  // setupMermaidJs();
   return;
 }

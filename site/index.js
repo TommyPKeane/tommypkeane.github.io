@@ -13,7 +13,6 @@ window.addEventListener(
     buildReferencesSection(
       "reference-links-container",
       {
-        "Feather Icons (SVG Icons)": "https://feathericons.com/",
         "highlight.js (Syntax Highlighting)": "https://highlightjs.org/",
         "Plotly (Graphing and Data Plotting)": "https://plotly.com/javascript/",
         "Paper.js (Canvas Graphics Library)": "http://paperjs.org/",
