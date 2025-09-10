@@ -1,0 +1,147 @@
+/* Custom Fonts */
+@font-face {
+  font-family: "Bellota Text";
+  src: url("/fonts/Bellota_Text/BellotaText-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bellota Text";
+  src: url("/fonts/Bellota_Text/BellotaText-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bellota Text";
+  src: url("/fonts/Bellota_Text/BellotaText-LightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bellota Text";
+  src: url("/fonts/Bellota_Text/BellotaText-Light.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bellota Text";
+  src: url("/fonts/Bellota_Text/BellotaText-BoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bellota Text";
+  src: url("/fonts/Bellota_Text/BellotaText-Bold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bigshot One";
+  src: url("/fonts/Bigshot_One/BigshotOne-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bungee";
+  src: url("/fonts/Bungee/Bungee-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Chivo Mono";
+  src: url("/fonts/Chivo_Mono/static/ChivoMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Chivo Mono";
+  src: url("/fonts/Chivo_Mono/static/ChivoMono-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Chivo Mono";
+  src: url("/fonts/Chivo_Mono/static/ChivoMono-LightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Chivo Mono";
+  src: url("/fonts/Chivo_Mono/static/ChivoMono-Light.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Chivo Mono";
+  src: url("/fonts/Chivo_Mono/static/ChivoMono-BoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Chivo Mono";
+  src: url("/fonts/Chivo_Mono/static/ChivoMono-Bold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Loved By The King";
+  src: url("/fonts/Loved_by_the_King/LovedbytheKing-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Major Mono";
+  src: url("/fonts/Major_Mono_Display/MajorMonoDisplay-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Oregano";
+  src: url("/fonts/Oregano/Oregano-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Oregano";
+  src: url("/fonts/Oregano/Oregano-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pompiere";
+  src: url("/fonts/Pompiere/Pompiere-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Splash";
+  src: url("/fonts/Splash/Splash-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Yeseva One";
+  src: url("/fonts/Yeseva_One/YesevaOne-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}

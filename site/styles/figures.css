@@ -1,0 +1,94 @@
+/* Photograph Figures */
+.photographFigure {}
+
+.photographFigure img {}
+
+
+/* Image Gallery Figures */
+.galleryFigure {}
+
+.galleryFigure .galleryContainer {}
+
+
+/* Screenshot Figures */
+.screenshotFigure img {
+  max-width: 50vw;
+}
+
+
+/* Highlight.js (Code) Figures */
+.codeFigure {
+  text-align: center;
+}
+
+.codeFigure code {
+  text-align: left;
+  font-size: 0.75vw;
+  box-shadow: -2px 2px 5px var(--black50);
+}
+
+.codeContainer {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.codeFigure code.lineNumbers {
+  text-align: right;
+  margin-right: 2px;
+  border-radius: 1rem 0rem 0rem 1rem;
+}
+
+.codeFigure pre {
+  flex-grow: 0;
+}
+
+.codeFigure pre.sourceCode {
+  flex-grow: 2;
+}
+
+.codeFigure pre.sourceCode  code {
+  border-radius: 0rem 1rem 1rem 0rem;
+}
+
+
+/* Paper.js (Canvas) Figure */
+.paperFigure {}
+
+.paperFigure canvas {
+  width: 60vw;
+  height: 40vw;
+  border-radius: 5px;
+  border: 1px solid rgb(10, 20, 10);
+  box-shadow: -2px 2px 5px rgb(5, 5, 5);
+  margin-left: auto;
+  margin-right: auto;
+  aspect-ratio: auto 60 / 40;
+}
+
+.paperFigure fieldset {
+  display: inline-block;
+  width: 20vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.paperFigure fieldset p,
+.paperFigure fieldset label {
+  display: inline-block;
+}
+
+.paperFigure fieldset p {
+  font-family: monospace;
+}
+
+
+/* Three.js (Canvas) Figure */
+.threeFigure {}
+
+
+/* WebGL (Canvas) Figure */
+.webglFigure {}

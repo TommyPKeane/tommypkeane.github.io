@@ -1,0 +1,9 @@
+/* Page Footer */
+.page-footer,
+#main-footer {
+  font-size: 1.2rem;
+  font-family: "Loved By The King", cursive;
+  letter-spacing: 0.035rem;
+  margin-top: 2rem;
+  border-top: 1px solid rgb(17, 29, 49);
+}

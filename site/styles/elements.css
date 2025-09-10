@@ -1,0 +1,47 @@
+/**
+ * Common Styling
+ */
+
+
+/* HTML Raw Elements Styling */
+blockquote {
+  text-align: left;
+  width: 80%;
+  padding: 0.45rem;
+  margin-top: 1rem;
+  margin-right: auto;
+  margin-bottom: 1rem;
+  margin-left: auto;
+  border-left: 4px solid var(--behr-red-pepper);
+  box-shadow: 4px 4px 7px var(--black50);
+}
+
+details summary {
+  cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+}
+
+tt {
+  font-family: "Chivo Mono", monospace;
+  font-size: 85%;
+  word-spacing: unset;
+  letter-spacing: unset;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  list-style: square;
+  margin-left: 2rem;
+}
+
+
+/* Common Custom Classes */
+.hidden {
+  display: none;
+  visibility: hidden;
+}

@@ -1,0 +1,41 @@
+body > header {
+  scroll-behavior: inherit;
+}
+
+body > main {
+  overflow-y: auto;
+  overflow-x: auto;
+  scrollbar-width: thin;  /* "auto" or "thin" */
+  scrollbar-color: var(--behr-red-pepper) transparent;  /* scroll thumb and track */
+}
+
+body > main::-webkit-scrollbar {
+  width: 1vw;  /* width of the entire scrollbar */
+}
+
+body > main::-webkit-scrollbar-corner {
+  background: transparent;  /* color of the tracking area */
+}
+
+body > main::-webkit-scrollbar-track {
+  background: transparent;  /* color of the tracking area */
+}
+
+body > main::-webkit-scrollbar-thumb {
+  background-color: var(--behr-red-pepper);  /* color of the scroll thumb */
+  border-radius: 1vw;  /* roundness of the scroll thumb */
+  border: 0px solid transparent;  /* creates padding around scroll thumb */
+}
+
+pre,
+code {
+  white-space: pre;
+}
+
+pre > code {
+  overflow-x: auto;
+}
+
+pre > code.hljs {
+  overflow-x: auto;
+}

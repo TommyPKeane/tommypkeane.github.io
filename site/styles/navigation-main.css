@@ -1,0 +1,103 @@
+#site-header-container {
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  height: 100vh;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.indicatorIcon {
+  width: 1rem;
+  color: var(--black);
+}
+
+.navEntry {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  font-weight: 400;
+  font-family: "Bellota Text", sans-serif;
+}
+
+.navEntryHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-weight: normal;
+  text-align: left;
+  font-weight: 400;
+  color: var(--black);
+}
+
+.navEntryHeader.expandable:hover {
+  color: var(--behr-red-pepper);
+  cursor: pointer;
+  font-weight: 600;
+  text-shadow: 1px 1px 2px var(--white10);
+}
+
+.navEntryHeader a {
+  text-decoration: none;
+  color: inherit;
+  font-family: inherit;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.navEntryHeader span {
+  padding-left: 5px;
+}
+
+.navEntryHeader a:hover {
+  color: var(--behr-red-pepper);
+  cursor: pointer;
+  font-weight: 600;
+  text-shadow: 1px 1px 2px var(--white10);
+}
+
+.navEntryHeader a:hover svg {
+  color: var(--behr-red-pepper);
+}
+
+.navEntryHeader,
+.navEntryBody {
+  vertical-align: middle;
+}
+
+.navEntryHeader svg {
+}
+
+#common_nav {
+  width: 100%;
+  display: flex;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav_entry {
+  display: inline-flex;
+  align-items: center;
+}
+
+.nestingLevel0 {
+  padding-left: 0px;
+}
+
+.nestingLevel1 {
+  padding-left: 10px;
+}
+
+.nestingLevel2 {
+  padding-left: 20px;
+}
+
+.nestingLevel3 {
+  padding-left: 30px;
+}
+
+.nestingLevel4 {
+  padding-left: 40px;
+}

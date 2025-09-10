@@ -1,0 +1,36 @@
+/**
+ * Common/Unified Stylesheet for tommypkeane.com Website
+ *
+ *
+ * Separate Stylesheet Imports
+ * These are still CSS, so the ordering here is fixed and is an element of the
+ * code itself. If you feel the need to rearrange these file imports, then you
+ * definitely better make sure you know what you're doing and why, because stuff
+ * may break simply from any change of ordering of these import statements.
+ *
+ * @author Tommy P. Keane <talk.to.tommypkeane@gmail.com>
+ * @copyright Tommy P. Keane, 2023 (https://www.tommypkeane.com)
+ * @license CC-BY-4.0
+ * @version 1.0.0
+ */
+
+/* third-party */
+@import "/thirdparty/katex/katex.min.css" layer(thirdparty);
+@import "/thirdparty/highlight/styles/stackoverflow-dark.min.css" layer(thirdparty);
+
+/* @layer theme; */
+@import "/styles/colors.css" layer(theme);
+@import "/styles/fonts.css" layer(theme);
+@import "/styles/scroll.css" layer(theme);
+
+/* @layer common; */
+@import "/styles/html.css" layer(common);
+@import "/styles/elements.css" layer(common);
+@import "/styles/navigation-main.css" layer(common);
+@import "/styles/footer.css" layer(common);
+@import "/styles/figures.css" layer(common);
+@import "/styles/articles.css" layer(common);
+
+
+/* Layers */
+@layer thirdparty, theme, common;

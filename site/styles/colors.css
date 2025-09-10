@@ -1,0 +1,23 @@
+/** CSS Variables
+*
+* Paint Colors from:
+* - https://www.behr.com/consumer/
+*/
+:root {
+  --behr-green-equestriangreen: #53644F;
+  --behr-green-jojoba: #B0B9A6;
+  --behr-green-mossybench: #83A28E;
+  --behr-green-perennialgreen: #46694F;
+  --behr-green-royalorchard: #5F6D59;
+  --behr-red-pepper: #7E3630;
+  --black: rgba(0, 0, 0, 1.00);
+  --black10: rgba(0, 0, 0, 0.10);
+  --black25: rgba(0, 0, 0, 0.25);
+  --black50: rgba(0, 0, 0, 0.50);
+  --black75: rgba(0, 0, 0, 0.75);
+  --white10: rgba(255, 255, 255, 0.10);
+  --white50: rgba(255, 255, 255, 0.25);
+  --white50: rgba(255, 255, 255, 0.50);
+  --white75: rgba(255, 255, 255, 0.75);
+  --white: rgba(255, 255, 255, 1.00);
+}

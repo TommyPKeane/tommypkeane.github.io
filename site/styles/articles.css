@@ -1,0 +1,200 @@
+/* Articles */
+main > article {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+main > article header {
+  font-family: "Yeseva One", sans-serif;
+}
+
+article header > h1 {
+  font-size: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+article header > h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+main > article header p {
+  font-size: 1.15rem;
+  font-family: "Pompiere", sans-serif;
+  font-weight: 400;
+  width: 70%;
+  line-height: 1.45;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.article-body {
+  max-width: 70%;
+  line-height: 1.35;
+  font-size: 1rem;
+  font-family: "Bellota Text", sans-serif;
+  font-variant-ligatures: none;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.article-body p {
+  max-width: 90%;
+}
+
+.article-body p,
+.article-body figcaption {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.article-body figcaption {
+  width: 70%;
+  font-size: 70%;
+}
+
+.article-body p {
+  line-height: 1.75;
+  text-align: justify;
+}
+
+.narrow-body p {
+  max-width: 40rem;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.left-align details {
+  text-align: left;
+  margin-top: 0vw;
+  margin-bottom: 1vw;
+}
+
+
+/* Link Block */
+.linkBlock {
+  font-size: 1.25vw;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2.5vw;
+  white-space: nowrap;
+  vertical-align: middle;
+  border-radius: 4px;
+  border: 2px solid var(--black50);
+  padding: 5px;
+  color: var(--black);
+  text-decoration: none;
+  line-height: 1;
+}
+
+.linkBlock * {
+  vertical-align: middle;
+}
+
+.linkBlock svg {
+  height: 1.35vw;
+}
+
+.linkBlock span {
+  padding-left: 0.15vw;
+}
+
+.linkBlock:hover {
+  font-weight: bold;
+  color: var(--behr-red-pepper);
+  box-shadow: 2px 2px 4px var(--behr-red-pepper);
+  border-color: var(--behr-red-pepper);
+}
+
+.offsiteLinksContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex-shrink: 0;
+  min-width: 20%;
+}
+
+.offsiteLinksContainer a {
+  text-decoration: none;
+}
+
+.offsiteLinksContainer img {
+  width: 2.5vw;
+}
+
+
+/* Page References */
+#article-references header {
+  font-family: "Bungee", sans-serif;
+}
+
+#article-references p {
+  width: 50%;
+  min-width: 350px;
+  font-size: 1.05rem;
+  font-family: "Pompiere", sans-serif;
+  line-height: 1.75;
+  font-weight: bold;
+  text-align: justify;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.referenceLinks {
+  text-align: left;
+  width: auto;
+  min-width: 350px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ref-link {
+  font-family: "Chivo Mono", monospace;
+  font-size: 0.85vw;
+  font-weight: 700;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  display: block;
+  list-style: none;
+  margin-top: 0rem;
+  margin-right: auto;
+  margin-bottom: 1rem;
+  margin-left: auto;
+  text-decoration: none;
+}
+
+.ref-link a,
+.ref-link a:visited {
+  vertical-align: middle;
+  text-decoration: none;
+  color: rgb(12, 27, 19);
+}
+
+.ref-link .link-icon {
+  display: inline-block;
+  width: 1rem;
+  vertical-align: middle;
+  margin-right: 0.25rem;
+  color: rgb(72, 97, 89);
+}
+
+.ref-link:hover,
+.ref-link a:hover,
+.ref-link:hover svg,
+.ref-link:hover .link-icon,
+.ref-link .link-icon:hover {
+  color: rgb(132, 57, 49);
+  text-decoration: underline;
+  text-underline-offset: 0.25rem;
+}
