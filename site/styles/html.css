@@ -25,11 +25,11 @@ body {
 body > header {
   margin: unset;
   padding: unset;
-  min-width: 20vw;
+  width: 100%;
   font-weight: 700;
   font-family: "Bellota Text", sans-serif;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: flex-start;
   justify-content: space-evenly;
   background-color: var(--black10);
