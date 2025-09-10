@@ -6,14 +6,41 @@ This repo hosts my GitHub Pages website, started in 2025 -- you can visit the si
 - https://www.tommypkeane.com
 - https://tommypkeane.github.io
 
+## Table of Contents
+
+<!-- MarkdownTOC -->
+
+- [Developer Setup](#developer-setup)
+	- [macOS Setup](#macos-setup)
+- [Deploying Site](#deploying-site)
+	- [DNS Setup](#dns-setup)
+- [Repository Directory Tree](#repository-directory-tree)
+- [License and Copyright](#license-and-copyright)
+- [References](#references)
+
+<!-- /MarkdownTOC -->
+
+<a id="developer-setup"></a>
 ## Developer Setup
 
-...
+These subsections are for anyone wanting to understand the tools and development setup used in creating and updating this repository.
 
+<a id="macos-setup"></a>
+### macOS Setup
+
+Setup and Install the following tools per https://github.com/TommyPKeane/example-bash-configuration:
+
+- `brew`
+- `direnv`
+- `git`
+- `git-lfs`
+
+<a id="deploying-site"></a>
 ## Deploying Site
 
 See the `.github/workflows/static.yml` which configures a customized GitHub Action per the official GitHub documentation.
 
+<a id="dns-setup"></a>
 ### DNS Setup
 
 See official instructions at: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
@@ -47,6 +74,7 @@ After you press `Save`, then it will take like 20-ish minutes for GitHub to gene
 
 Note also that you will have to have a `CNAME` file saved into your repository (like you'll see in this repo), and it needs to have the same value as you've put into the `Custom Domain` field in the GitHub `Pages` section under your repository `Settings`.
 
+<a id="repository-directory-tree"></a>
 ## Repository Directory Tree
 
 - `.github/`
@@ -61,10 +89,12 @@ Note also that you will have to have a `CNAME` file saved into your repository (
 - `LICENSE`
 - `README.md`
 
+<a id="license-and-copyright"></a>
 ## License and Copyright
 
 See the `LICENSE` file.
 
+<a id="references"></a>
 ## References
 
 - https://docs.github.com/en/pages
