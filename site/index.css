@@ -86,8 +86,8 @@
   }
 
   span.quote {
-    font-size: 1.05rem;
+    font-size: 1.25rem;
     font-family: "Pompiere", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
   }
 }
