@@ -9,7 +9,7 @@ window.addEventListener(
   () => {
     runCommonPageUpdates();
     document.getElementById("header-catchphrase").innerHTML = selectRandomGreeting();
-    document.getElementById("greeting").innerHTML = `Welcome, ${userConfig.name}!`;
+    // document.getElementById("greeting").innerHTML = `Welcome, ${userConfig.name}!`;
     buildReferencesSection(
       "reference-links-container",
       {

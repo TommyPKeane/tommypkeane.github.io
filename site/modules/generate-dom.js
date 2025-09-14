@@ -20,13 +20,13 @@ export const toggleExpandableIndicatorIcon = function hstToggleExpandableIndicat
   if (indicatorIcon) {
     const currentFeatherIconClasses = getClassesList(indicatorIcon);
     if (currentFeatherIconClasses.includes(`feather-${IndicatorIconEnum.opened}`)) {
-      const newIcon = htmlToElement(feather.icons[IndicatorIconEnum.closed].toSvg());
+      const newIcon = htmlToElement("<span>⏵</span>");
       const classes = getClassesList(newIcon);
       classes.push(IndicatorIconClassName);
       newIcon.setAttribute("class", classes.join(" "));
       indicatorIcon.replaceWith(newIcon);
     } else if (currentFeatherIconClasses.includes(`feather-${IndicatorIconEnum.closed}`)) {
-      const newIcon = htmlToElement(feather.icons[IndicatorIconEnum.opened].toSvg());
+      const newIcon = htmlToElement("<span>▿</span>");
       const classes = getClassesList(newIcon);
       classes.push(IndicatorIconClassName);
       newIcon.setAttribute("class", classes.join(" "));
@@ -79,7 +79,7 @@ export const buildNavLinkFragment = function hstBuildNavLinkFragment(title, url,
   const entryHeaderElement = document.createElement("div");
   entryHeaderElement.setAttribute("class", "navEntryHeader");
 
-  const newIcon = htmlToElement(feather.icons[IndicatorIconEnum.page].toSvg());
+  const newIcon = htmlToElement("<span class=\"\">⏵</span>");
   const classes = getClassesList(newIcon);
   classes.push(IndicatorIconClassName);
   newIcon.setAttribute("class", classes.join(" "));
@@ -171,13 +171,24 @@ export const parseTocEntryObject = function hstParseTocEntryObject(tocEntryObjec
 export const buildModalSiteNavigation = function hstBuildModalSiteNavigation(tocObject) {
   const containerElement = document.createElement("div");
   containerElement.setAttribute("id", "site-header-container");
+
+  const headerImageElement = document.createElement("img");
+  headerImageElement.setAttribute(
+    "src",
+    "images/tommypkeane-com_header_1920x1080_web.svg",
+  );
+
   const containerContentsFragment = document.createDocumentFragment();
   const navElement = document.createElement("nav");
   for (const [topLevelKey, topLevelObj] of Object.entries(tocObject)) {
     const topLevelNavEntryFragment = parseTocEntryObject(topLevelObj, 0);
-    containerContentsFragment.appendChild(topLevelNavEntryFragment);
+    navElement.appendChild(topLevelNavEntryFragment);
   }
+  containerContentsFragment.appendChild(navElement);
+
+  containerElement.appendChild(headerImageElement);
   containerElement.appendChild(containerContentsFragment);
+
   return containerElement;
 }
 
@@ -213,7 +224,7 @@ export const buildReferencesSection = function hstBuildReferencesSection(
       linkElement.textContent = linkText;
 
       const imageElement = document.createElement("img");
-      imageElement.setAttribute("srcset", "/images/feather/external-link.svg");
+      // imageElement.setAttribute("srcset", "/images/feather/external-link.svg");
       imageElement.setAttribute("class", "link-icon");
 
       const listElement = document.createElement("li");
