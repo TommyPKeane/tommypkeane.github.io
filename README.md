@@ -11,13 +11,13 @@ This repo hosts my GitHub Pages website, started in 2025 -- you can visit the si
 <!-- MarkdownTOC -->
 
 - [Developer Setup](#developer-setup)
-	- [macOS Setup](#macos-setup)
-	- [Setup of Site Hosting on `localhost` for Debugging and Development](#setup-of-site-hosting-on-localhost-for-debugging-and-development)
+    - [macOS Setup](#macos-setup)
+    - [Setup of Site Hosting on `localhost` for Debugging and Development](#setup-of-site-hosting-on-localhost-for-debugging-and-development)
 - [Deploying Site](#deploying-site)
-	- [DNS Setup](#dns-setup)
+    - [DNS Setup](#dns-setup)
 - [Repository Directory Tree](#repository-directory-tree)
 - [License and Copyright](#license-and-copyright)
-	- [Images, Documents, and Artworks](#images-documents-and-artworks)
+    - [Images, Documents, and Artworks](#images-documents-and-artworks)
 - [References](#references)
 
 <!-- /MarkdownTOC -->
@@ -33,9 +33,28 @@ These subsections are for anyone wanting to understand the tools and development
 Setup and Install the following tools per https://github.com/TommyPKeane/example-bash-configuration:
 
 - `brew`
-- `direnv`
-- `git`
-- `git-lfs`
+    - `direnv`
+    - `git`
+    - `git-lfs`
+    - `uv`
+
+And once `uv` is installed, make sure you have `ruff` with:
+
+```bash
+uv tool install ruff
+```
+
+and then make sure the tools are in your `PATH` with
+
+```bash
+uv tool update-shell
+```
+
+and then if you're using `bash` you can make sure your shell is updated in the current terminal session with:
+
+```bash
+source ~/.bashrc
+```
 
 <a id="setup-of-site-hosting-on-localhost-for-debugging-and-development"></a>
 ### Setup of Site Hosting on `localhost` for Debugging and Development
@@ -58,7 +77,7 @@ Setup and Install the following tools per https://github.com/TommyPKeane/example
     ```
 1. Install the Python dependencies and setup the local Package with `uv`:
     ```bash
-    uv install
+    uv sync --active
     ```
 
 <a id="deploying-site"></a>
