@@ -2,11 +2,18 @@
 **/.direnv/
 
 # macOS Caching
-.DS_Store
+**/.DS_Store
 
 # Python Caching
 *.pyc
 *.pyd
+*.pyo
 **/__pycache__/
 **/.pytest_cache/
 **/.coverage/
+**/__pytest_cache__/
+
+# venv
+**/.venv/
+
+# ruff

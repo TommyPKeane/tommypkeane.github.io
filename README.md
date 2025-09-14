@@ -12,6 +12,7 @@ This repo hosts my GitHub Pages website, started in 2025 -- you can visit the si
 
 - [Developer Setup](#developer-setup)
 	- [macOS Setup](#macos-setup)
+	- [Setup of Site Hosting on `localhost` for Debugging and Development](#setup-of-site-hosting-on-localhost-for-debugging-and-development)
 - [Deploying Site](#deploying-site)
 	- [DNS Setup](#dns-setup)
 - [Repository Directory Tree](#repository-directory-tree)
@@ -35,6 +36,30 @@ Setup and Install the following tools per https://github.com/TommyPKeane/example
 - `direnv`
 - `git`
 - `git-lfs`
+
+<a id="setup-of-site-hosting-on-localhost-for-debugging-and-development"></a>
+### Setup of Site Hosting on `localhost` for Debugging and Development
+
+1. Make sure you have the Python Version installed:
+    ```bash
+    pyenv install
+    ```
+1. Create the local Project Environment:
+    ```bash
+    direnv allow
+    ```
+1. Confirm your Python executable is in the local `.direnv` directory:
+    ```bash
+    which python
+    ```
+1. Make sure the latest version of `pip` is installed:
+    ```bash
+    pip install --upgrade pip
+    ```
+1. Install the Python dependencies and setup the local Package with `uv`:
+    ```bash
+    uv install
+    ```
 
 <a id="deploying-site"></a>
 ## Deploying Site
