@@ -4,7 +4,7 @@ export let userConfig = {
 }
 
 export const greetings = [
-  "Hiya! It's me. I'm the Tommy. It's me.",
+  "Is this drama-circle about me, right now?",
 ];
 
 export const selectRandomGreeting = function hstSelectRandomGreeting() {
