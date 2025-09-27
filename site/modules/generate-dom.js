@@ -172,22 +172,22 @@ export const buildModalSiteNavigation = function hstBuildModalSiteNavigation(toc
   const containerElement = document.createElement("div");
   containerElement.setAttribute("id", "site-header-container");
 
-  const headerImageElement = document.createElement("img");
-  headerImageElement.setAttribute(
-    "src",
-    "images/tommypkeane-com_header_1920x1080_web.svg",
-  );
+  // const headerImageElement = document.createElement("img");
+  // headerImageElement.setAttribute(
+  //   "src",
+  //   "images/tommypkeane-com_header_1920x1080_web.svg",
+  // );
 
-  const containerContentsFragment = document.createDocumentFragment();
-  const navElement = document.createElement("nav");
+  // const containerContentsFragment = document.createDocumentFragment();
+  const navElement = document.querySelector("#site-nav");
   for (const [topLevelKey, topLevelObj] of Object.entries(tocObject)) {
     const topLevelNavEntryFragment = parseTocEntryObject(topLevelObj, 0);
     navElement.appendChild(topLevelNavEntryFragment);
   }
-  containerContentsFragment.appendChild(navElement);
+  // containerContentsFragment.appendChild(navElement);
 
-  containerElement.appendChild(headerImageElement);
-  containerElement.appendChild(containerContentsFragment);
+  // containerElement.appendChild(headerImageElement);
+  // containerElement.appendChild(containerContentsFragment);
 
   return containerElement;
 }

@@ -6,8 +6,9 @@
 }
 
 #site-header {
-	width: 100%;
+	width: 100vw;
 	background-color: transparent;
+  height: 10vw;
 }
 
 @layer pagespecific {

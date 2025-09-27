@@ -1,6 +1,10 @@
 import { getClassesList } from "/modules/utils.js";
 import { sitemap_toc } from "/modules/site-toc.js";
-import { buildSiteHeader, buildSiteFooter } from "/modules/generate-dom.js";
+import {
+  buildModalSiteNavigation,
+  buildSiteHeader,
+  buildSiteFooter
+} from "/modules/generate-dom.js";
 import {
   updateCodeFiguresWithLineNumbers,
   updateFigureCaptions,
@@ -18,7 +22,8 @@ export const runCommonPageUpdates = function hstRunCommonPageUpdates() {
   console.log(`Page Last Modified: ${fileLastModifiedDateTime}`);
   console.group("Look Away!");
   console.log("There's nothing here, sorry...");
-  buildSiteHeader();
+  buildModalSiteNavigation(sitemap_toc);
+  // buildSiteHeader();
   // buildSiteFooter();
   // updateFigureCaptions();
   // updateCodeFiguresWithLineNumbers();
