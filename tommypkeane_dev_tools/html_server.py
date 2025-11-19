@@ -3,6 +3,7 @@
 References:
     - https://gist.github.com/jwhb/de4225afba72328af443671177666ec5
     - https://stackoverflow.com/questions/31251524/python-simplehttpserver-change-service-directory
+    - https://discuss.python.org/t/keyboardinterrupt-and-systemexit-in-exception-groups-should-be-considered-for-pythons-exit-code/82816/9
 """
 
 import http
