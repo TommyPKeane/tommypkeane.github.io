@@ -19,6 +19,7 @@ This repo hosts my GitHub Pages website, started in 2025 -- you can visit the si
 - [License and Copyright](#license-and-copyright)
     - [Images, Documents, and Artworks](#images-documents-and-artworks)
 - [References](#references)
+    - [HTTP and WebDev](#http-and-webdev)
 
 <!-- /MarkdownTOC -->
 
@@ -151,3 +152,15 @@ Unless otherwise specified, all imagery, documents, and artwork provided in this
 - https://www.aseprite.org/ purchased and used for Pixel Art development
 - https://www.sublimetext.com/ purchased and used for coding as a text editor (and lightweight IDE)
 - https://www.sublimemerge.com/ purchased and used for interacting with Git as version control for this repository
+
+
+<a id="http-and-webdev"></a>
+### HTTP and WebDev
+
+- https://stackoverflow.com/questions/21147149/flash-of-unstyled-content-fouc-in-firefox-only-is-ff-slow-renderer
+- https://docs.gitlab.com/user/project/pages/
+- https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-label
+- https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
+- https://thepaciellogroup.github.io/AT-browser-tests/test-files/header.html
+- https://html.spec.whatwg.org/multipage/text-level-semantics.html#attr-dfn-title
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hgroup
