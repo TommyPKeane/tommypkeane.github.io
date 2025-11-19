@@ -6,6 +6,27 @@
   box-shadow: 0rem 0rem 1.25rem 0.5rem rgba(0, 0, 0, 0.25);
 }
 
+#site-header h1 {
+  font-family: "Homecomputer Sixtyfour", sans-serif;
+  font-size: 2.50rem;
+  font-variation-settings:"BLED" 5, "SCAN" 5;
+  transform: scale(1.0, 2.0);
+  /*background-image: linear-gradient(lightpink, var(--behr-red-pepper));*/
+  /*color: transparent;*/
+  color: lightcoral;
+  /*background-clip: text;*/
+}
+
+#site-header h2 {
+  font-family: "Homecomputer Workbench", sans-serif;
+  font-size: 1.25rem;
+  font-variation-settings:"BLED" 5, "SCAN" 5;
+  /*background-image: linear-gradient(lightpink, var(--behr-red-pepper));*/
+  /*color: transparent;*/
+  color: lightcoral;
+  /*background-clip: text;*/
+}
+
 main > nav {
   width: 100%;
   position: fixed;
