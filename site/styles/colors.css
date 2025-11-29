@@ -21,3 +21,27 @@
   --white75: rgba(255, 255, 255, 0.75);
   --white: rgba(255, 255, 255, 1.00);
 }
+
+
+/** Color Palettes
+ * https://colorpalette.pro/
+ *
+ * - Fever Dream in Fever Ice: https://colorpalette.pro/?color=hsl%28333+43%25+54.6%25%29&paletteType=com&paletteStyle=diamond&colorFormat=hsl&effects=10%2C75%2C0%2C0
+ * - Fever Dream in Fever Love: https://colorpalette.pro/?color=hsl%28333+43%25+54.6%25%29&paletteType=ana&paletteStyle=diamond&colorFormat=hex&effects=10%2C75%2C0%2C0
+*/
+:root {
+  /* Fever Dream in Fever Ice */
+  --feverdream-pink: #DC5B79;
+  --feverdream-teal: #00C6C1;
+  --feverdream-brown: #49272F;
+  --feverdream-pale-pink: #E89DB0;
+  --feverdream-pale-teal: #C8FBF1;
+  --feverdream-green: #005751;
+
+  /* Fever Dream in Fever Love */
+  --feverdream-maroon-dark: #843D65;
+  --feverdream-maroon-light: #A8396E;
+  --feverdream-pink-light: #FF90A0;
+  --feverdream-off-white: #FFD9D7;
+  --feverdream-white: #FFE7DE;
+}

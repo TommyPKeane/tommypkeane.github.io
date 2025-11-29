@@ -1,17 +1,46 @@
 /* Common Site Styling */
 @import "/styles/common.css" layer(tommypkeane);
 
-#site-body {
-	background-color: #5A8FC977;
-}
-
-#site-header {
-	width: 100vw;
-	background-color: transparent;
-  height: 10vw;
-}
-
 @layer pagespecific {
+  #index-main-columns-base {
+    width: 80vw;
+    background-color: transparent;
+    height: 10vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #index-main-columns-base h1 {
+    font-size: 9rem;
+    color: var(--feverdream-white);
+    text-shadow: 1px 2px 4px var(--feverdream-pink);
+    margin-bottom: 0.5rem;
+  }
+
+  #index-main-columns-base h1 .capital {
+    font-family: "Alex Brush";
+    font-size: 12rem;
+  }
+
+  #index-main-columns-base h1 .lowercase {
+    font-family: "MrDeHaviland";
+  }
+
+  #index-main-columns-base h2 {
+    width: 60%;
+    font-family: "Petemoss";
+    font-size: 2rem;
+    color: var(--feverdream-pink);
+    margin-top: 0.5rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #index-main-columns-base h2 .number {
+    font-family: "Homecomputer Sixtyfour";
+    font-size: 1rem;
+  }
+
   #introContainer {
     width: 85%;
     margin-left: auto;

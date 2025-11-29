@@ -53,6 +53,10 @@ body > footer {
   padding: unset;
 }
 
+#site-body {
+  background-color: var(--feverdream-green);
+}
+
 #main-footer {
   display: block;
 }
