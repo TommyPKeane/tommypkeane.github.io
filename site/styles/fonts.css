@@ -1,154 +1,170 @@
-/* Custom Fonts */
+/** Custom Fonts
+ *
+ * References:
+ *  - https://fonts.google.com/
+ */
+
 @font-face {
-  font-family: "Bellota Text";
-  src: url("/thirdparty/fonts/Bellota_Text/BellotaText-Regular.ttf") format("truetype");
+  font-family: "Alex Brush";
+  src:
+    local("Alex Brush"),
+    url("/thirdparty/fonts/Alex_Brush/AlexBrush-Regular.ttf") format("truetype");
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arizonia";
+  src:
+    local("Arizonia"),
+    url("/thirdparty/fonts/Arizonia/Arizonia-Regular.ttf") format("truetype");
+  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Bellota Text";
-  src: url("/thirdparty/fonts/Bellota_Text/BellotaText-Italic.ttf") format("truetype");
+  src:
+    local("Bellota Text"),
+    url("/thirdparty/fonts/Bellota_Text/BellotaText-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bellota Text";
+  src:
+    local("Bellota Text"),
+    url("/thirdparty/fonts/Bellota_Text/BellotaText-Italic.ttf") format("truetype");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Bellota Text";
-  src: url("/thirdparty/fonts/Bellota_Text/BellotaText-LightItalic.ttf") format("truetype");
+  src:
+    local("Bellota Text"),
+    url("/thirdparty/fonts/Bellota_Text/BellotaText-LightItalic.ttf") format("truetype");
   font-weight: 200;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Bellota Text";
-  src: url("/thirdparty/fonts/Bellota_Text/BellotaText-Light.ttf") format("truetype");
+  src:
+    local("Bellota Text"),
+    url("/thirdparty/fonts/Bellota_Text/BellotaText-Light.ttf") format("truetype");
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Bellota Text";
-  src: url("/thirdparty/fonts/Bellota_Text/BellotaText-BoldItalic.ttf") format("truetype");
+  src:
+    local("Bellota Text"),
+    url("/thirdparty/fonts/Bellota_Text/BellotaText-BoldItalic.ttf") format("truetype");
   font-weight: 600;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Bellota Text";
-  src: url("/thirdparty/fonts/Bellota_Text/BellotaText-Bold.ttf") format("truetype");
+  src:
+    local("Bellota Text"),
+    url("/thirdparty/fonts/Bellota_Text/BellotaText-Bold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Bigshot One";
-  src: url("/thirdparty/fonts/Bigshot_One/BigshotOne-Regular.ttf") format("truetype");
+  src:
+    local("Bigshot One"),
+    url("/thirdparty/fonts/Bigshot_One/BigshotOne-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bonheur Royale";
+  src:
+    local("Bonheur Royale"),
+    url("/thirdparty/fonts/Bonheur_Royale/BonheurRoyale-Regular.ttf") format("truetype");
+  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Bungee";
-  src: url("/thirdparty/fonts/Bungee/Bungee-Regular.ttf") format("truetype");
+  src:
+    local("Bungee"),
+    url("/thirdparty/fonts/Bungee/Bungee-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Chivo Mono";
-  src: url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-Regular.ttf") format("truetype");
+  src:
+    local("Chivo Mono"),
+    url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Chivo Mono";
-  src: url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-Italic.ttf") format("truetype");
+  src:
+    local("Chivo Mono"),
+    url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-Italic.ttf") format("truetype");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Chivo Mono";
-  src: url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-LightItalic.ttf") format("truetype");
+  src:
+    local("Chivo Mono"),
+    url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-LightItalic.ttf") format("truetype");
   font-weight: 200;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Chivo Mono";
-  src: url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-Light.ttf") format("truetype");
+  src:
+    local("Chivo Mono"),
+    url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-Light.ttf") format("truetype");
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Chivo Mono";
-  src: url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-BoldItalic.ttf") format("truetype");
+  src:
+    local("Chivo Mono"),
+    url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-BoldItalic.ttf") format("truetype");
   font-weight: 600;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Chivo Mono";
-  src: url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-Bold.ttf") format("truetype");
+  src:
+    local("Chivo Mono"),
+    url("/thirdparty/fonts/Chivo_Mono/static/ChivoMono-Bold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Loved By The King";
-  src: url("/thirdparty/fonts/Loved_by_the_King/LovedbytheKing-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Major Mono";
-  src: url("/thirdparty/fonts/Major_Mono_Display/MajorMonoDisplay-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Oregano";
-  src: url("/thirdparty/fonts/Oregano/Oregano-Italic.ttf") format("truetype");
-  font-weight: 400;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Oregano";
-  src: url("/thirdparty/fonts/Oregano/Oregano-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Pompiere";
-  src: url("/thirdparty/fonts/Pompiere/Pompiere-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Splash";
-  src: url("/thirdparty/fonts/Splash/Splash-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Yeseva One";
-  src: url("/thirdparty/fonts/Yeseva_One/YesevaOne-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Sixtyfour Convergence";
-  src: url("/thirdparty/fonts/Sixtyfour_Convergence/SixtyfourConvergence-Regular-VariableFont_BLED-SCAN-XELA-YELA.ttf") format("truetype");
+  font-family: "Great Vibes";
+  src:
+    local("Great Vibes"),
+    url("/thirdparty/fonts/Great_Vibes/GreatVibes-Regular.ttf") format("truetype");
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
@@ -156,7 +172,9 @@
 
 @font-face {
   font-family: "Homecomputer Sixtyfour";
-  src: url("/thirdparty/fonts/homecomputer/Sixtyfour[wdth,wght].ttf") format("truetype");
+  src:
+    local("Homecomputer Sixtyfour"),
+    url("/thirdparty/fonts/homecomputer/Sixtyfour[wdth,wght].ttf") format("truetype");
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
@@ -164,8 +182,127 @@
 
 @font-face {
   font-family: "Homecomputer Workbench";
-  src: url("/thirdparty/fonts/homecomputer/Workbench[wdth,wght].ttf") format("truetype");
+  src:
+    local("Homecomputer Workbench"),
+    url("/thirdparty/fonts/homecomputer/Workbench[wdth,wght].ttf") format("truetype");
   font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Love Light";
+  src:
+    local("Love Light"),
+    url("/thirdparty/fonts/Love_Light/LoveLight-Regular.ttf") format("truetype");
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Loved By The King";
+  src:
+    local("Loved By The King"),
+    local("LovedByTheKing"),
+    local("Loved_By_The_King"),
+    url("/thirdparty/fonts/Loved_by_the_King/LovedbytheKing-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Major Mono";
+  src:
+    local("Major Mono"),
+    url("/thirdparty/fonts/Major_Mono_Display/MajorMonoDisplay-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MrDeHaviland";
+  src:
+    local("MrDeHaviland"),
+    local("Mr De Haviland"),
+    local("Mr_De_Haviland"),
+    url("/thirdparty/fonts/Mr_De_Haviland/MrDeHaviland-Regular.ttf") format("truetype");
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Oregano";
+  src:
+    local("Oregano"),
+    url("/thirdparty/fonts/Oregano/Oregano-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Oregano";
+  src:
+    local("Oregano"),
+    url("/thirdparty/fonts/Oregano/Oregano-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Petemoss";
+  src:
+    local("Petemoss"),
+    url("/thirdparty/fonts/Petemoss/Petemoss-Regular.ttf") format("truetype");
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pompiere";
+  src:
+    local("Pompiere"),
+    url("/thirdparty/fonts/Pompiere/Pompiere-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sacramento";
+  src:
+    local("Sacramento"),
+    url("/thirdparty/fonts/Sacramento/Sacramento-Regular.ttf") format("truetype");
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sixtyfour Convergence";
+  src:
+    local("Sixtyfour Convergence"),
+    url("/thirdparty/fonts/Sixtyfour_Convergence/SixtyfourConvergence-Regular-VariableFont_BLED-SCAN-XELA-YELA.ttf") format("truetype");
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Splash";
+  src:
+    local("Splash"),
+    url("/thirdparty/fonts/Splash/Splash-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Yeseva One";
+  src:
+    local("Yeseva One"),
+    url("/thirdparty/fonts/Yeseva_One/YesevaOne-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
