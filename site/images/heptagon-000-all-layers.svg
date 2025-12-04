@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="562.04071"
+   height="559.14282"
+   viewBox="0 0 148.7066 147.93987"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="heptagon-000-all-layers.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="2.2432523"
+     inkscape:cx="293.99279"
+     inkscape:cy="227.12559"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g42">
+    <inkscape:grid
+       id="grid3"
+       units="px"
+       originx="-10.313361"
+       originy="-10.695767"
+       spacingx="0.26458333"
+       spacingy="0.26458333"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="20"
+       enabled="true"
+       visible="false" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="148.7066"
+       height="147.93987"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Heptagon"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     transform="translate(-10.313361,-10.695767)">
+    <path
+       id="path3"
+       style="opacity:1;fill:none;stroke:#e89db0;stroke-width:0.646113;stroke-linecap:square"
+       inkscape:transform-center-x="-0.10835607"
+       inkscape:transform-center-y="-3.9248067"
+       transform="matrix(0.8121456,-0.89041355,1.0385386,0.69688593,-72.000309,93.754782)"
+       d="m 123.25184,54.469363 7.14535,40.390063 -25.38447,34.307264 -44.01084,9.10185 L 27.036497,94.958438 46.397235,54.172093 85.869083,37.845524 Z"
+       sodipodi:nodetypes="cccccccc" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e89db0;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.370417;stroke-opacity:1"
+       id="path28"
+       cx="84.666664"
+       cy="84.666664"
+       rx="7.0016561"
+       ry="6.9664507" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e89db0;stroke-width:0.466815;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.466815, 2.80089;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse28"
+       cx="84.666664"
+       cy="84.666664"
+       rx="74.119896"
+       ry="73.747208" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Bottom"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     transform="translate(-10.313361,-10.695767)">
+    <path
+       style="fill:none;fill-opacity:0.497409;stroke:#e89db0;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5875, 1.05833;stroke-dashoffset:2.91042;stroke-opacity:1"
+       d="M 46.043706,139.46355 123.65131,139.31668 84.666666,84.666676 Z"
+       id="path5"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="triangle" />
+    <g
+       id="g37-74"
+       transform="rotate(-2.7529051,39.705955,62.85938)"
+       inkscape:label="angle-text-group"
+       style="display:inline">
+      <g
+         id="g43"
+         transform="translate(-1.4689778,-0.63187427)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+           x="80.441536"
+           y="101.96624"
+           id="text34-0"
+           transform="scale(1.0443893,0.95749735)"><tspan
+             sodipodi:role="line"
+             id="tspan34-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+             x="80.441536"
+             y="101.96624">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+           x="80.261604"
+           y="104.97138"
+           id="text35-87"
+           transform="scale(1.0443893,0.95749735)"><tspan
+             sodipodi:role="line"
+             id="tspan35-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+             x="80.261604"
+             y="104.97138">15</tspan></text>
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#e89db0;stroke-width:0.188486;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:1"
+           d="m 82.276169,97.950356 2.931427,0.138654"
+           id="path35-4" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+           x="82.830009"
+           y="103.22453"
+           id="text36-6"
+           transform="scale(1.0443893,0.95749736)"><tspan
+             sodipodi:role="line"
+             id="tspan36-37"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+             x="82.830009"
+             y="103.22453">π</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g13"
+     inkscape:label="BottomRight"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     transform="translate(-10.313361,-10.695767)">
+    <path
+       style="fill:none;fill-opacity:0.497409;stroke:#e89db0;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5875, 1.05833;stroke-dashoffset:0.370417;stroke-opacity:1"
+       d="M 123.65131,139.31668 150.91074,90.684415 84.613827,84.711145 Z"
+       id="path9"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="triangle"
+       inkscape:transform-center-x="-31.225158"
+       inkscape:transform-center-y="30.40917" />
+    <g
+       id="g37-1"
+       transform="rotate(-2.6396388,-84.592587,-191.17105)"
+       inkscape:label="angle-text-group"
+       style="display:inline">
+      <g
+         id="g37-74-8"
+         transform="rotate(-0.11326633,-72.212531,1024.0448)">
+        <g
+           id="g43-0"
+           transform="translate(-1.4689778,-0.63187427)"
+           style="display:inline">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.441536"
+             y="101.96624"
+             id="text34-0-8"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan34-0-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.441536"
+               y="101.96624">4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.261604"
+             y="104.97138"
+             id="text35-87-1"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan35-6-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.261604"
+               y="104.97138">15</tspan></text>
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#e89db0;stroke-width:0.188486;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:1"
+             d="m 82.276169,97.950356 2.931427,0.138654"
+             id="path35-4-2" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="82.830009"
+             y="103.22453"
+             id="text36-6-3"
+             transform="scale(1.0443893,0.95749736)"><tspan
+               sodipodi:role="line"
+               id="tspan36-37-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="82.830009"
+               y="103.22453">π</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g17"
+     inkscape:label="Right"
+     style="display:inline"
+     transform="rotate(-49.173098,68.030445,90.326547)"
+     inkscape:transform-center-x="-31.717815"
+     inkscape:transform-center-y="-7.7190547"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:0.497409;stroke:#e89db0;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5875, 1.05833;stroke-dashoffset:0.370417;stroke-opacity:1"
+       d="M 123.29553,138.47842 150.06972,94.286595 84.540305,84.418049 Z"
+       id="path13"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="triangle"
+       inkscape:transform-center-x="-31.225158"
+       inkscape:transform-center-y="30.40917" />
+    <g
+       id="g37-1-7"
+       transform="rotate(46.533459,95.206314,108.50875)"
+       inkscape:label="angle-text-group"
+       style="display:inline">
+      <g
+         id="g37-74-8-0"
+         transform="rotate(-0.11326633,-72.212531,1024.0448)">
+        <g
+           id="g43-0-4"
+           transform="translate(-1.4689778,-0.63187427)"
+           style="display:inline">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.441536"
+             y="101.96624"
+             id="text34-0-8-5"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan34-0-8-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.441536"
+               y="101.96624">4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.261604"
+             y="104.97138"
+             id="text35-87-1-4"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan35-6-7-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.261604"
+               y="104.97138">15</tspan></text>
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#e89db0;stroke-width:0.188486;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:1"
+             d="m 82.276169,97.950356 2.931427,0.138654"
+             id="path35-4-2-4" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="82.830009"
+             y="103.22453"
+             id="text36-6-3-0"
+             transform="scale(1.0443893,0.95749736)"><tspan
+               sodipodi:role="line"
+               id="tspan36-37-0-6"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="82.830009"
+               y="103.22453">π</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g21"
+     inkscape:label="TopRight"
+     style="display:inline"
+     transform="rotate(-49.173098,68.030445,90.326547)"
+     inkscape:transform-center-x="-31.717815"
+     inkscape:transform-center-y="-7.7190547"
+     sodipodi:insensitive="true">
+    <path
+       style="display:inline;fill:none;fill-opacity:0.497409;stroke:#e89db0;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5875, 1.05833;stroke-dashoffset:0.370417;stroke-opacity:1"
+       d="M 150.06972,94.286595 134.42019,40.851549 84.59297,84.54671 Z"
+       id="path17"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="triangle"
+       inkscape:transform-center-x="-24.939668"
+       inkscape:transform-center-y="-29.74036" />
+    <g
+       id="g37-1-0"
+       transform="rotate(46.533459,106.70659,105.223)"
+       inkscape:label="angle-text-group"
+       style="display:inline">
+      <g
+         id="g37-74-8-05"
+         transform="rotate(-0.11326633,-72.212531,1024.0448)">
+        <g
+           id="g43-0-9"
+           transform="translate(-1.4689778,-0.63187427)"
+           style="display:inline">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.441536"
+             y="101.96624"
+             id="text34-0-8-4"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan34-0-8-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.441536"
+               y="101.96624">4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.261604"
+             y="104.97138"
+             id="text35-87-1-44"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan35-6-7-4"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.261604"
+               y="104.97138">15</tspan></text>
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#e89db0;stroke-width:0.188486;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:1"
+             d="m 82.276169,97.950356 2.931427,0.138654"
+             id="path35-4-2-43" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="82.830009"
+             y="103.22453"
+             id="text36-6-3-5"
+             transform="scale(1.0443893,0.95749736)"><tspan
+               sodipodi:role="line"
+               id="tspan36-37-0-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="82.830009"
+               y="103.22453">π</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g34"
+     inkscape:label="TopLeft"
+     style="display:inline"
+     transform="rotate(-49.173098,68.030445,90.326547)"
+     inkscape:transform-center-x="-31.717815"
+     inkscape:transform-center-y="-7.7190547"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:0.497409;stroke:#e89db0;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5875, 1.05833;stroke-dashoffset:0.370417;stroke-opacity:1"
+       d="M 134.42019,40.851549 84.238324,18.099136 84.59297,84.54671 Z"
+       id="path30"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="triangle"
+       inkscape:transform-center-x="27.37771"
+       inkscape:transform-center-y="-30.324043" />
+    <g
+       id="g33"
+       transform="rotate(46.015105,115.587,93.267425)"
+       inkscape:label="angle-text-group">
+      <g
+         id="g37-1-70"
+         transform="rotate(0.5183542,-148.64156,401.34953)"
+         inkscape:label="angle-text-group"
+         style="display:inline">
+        <g
+           id="g37-74-8-06"
+           transform="rotate(-0.11326633,-72.212531,1024.0448)">
+          <g
+             id="g43-0-6"
+             transform="translate(-1.4689778,-0.63187427)"
+             style="display:inline">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+               x="80.441536"
+               y="101.96624"
+               id="text34-0-8-2"
+               transform="scale(1.0443893,0.95749735)"><tspan
+                 sodipodi:role="line"
+                 id="tspan34-0-8-5"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+                 x="80.441536"
+                 y="101.96624">4</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+               x="80.261604"
+               y="104.97138"
+               id="text35-87-1-8"
+               transform="scale(1.0443893,0.95749735)"><tspan
+                 sodipodi:role="line"
+                 id="tspan35-6-7-6"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+                 x="80.261604"
+                 y="104.97138">15</tspan></text>
+            <path
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#e89db0;stroke-width:0.188486;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:1"
+               d="m 82.276169,97.950356 2.931427,0.138654"
+               id="path35-4-2-1" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+               x="82.830009"
+               y="103.22453"
+               id="text36-6-3-4"
+               transform="scale(1.0443893,0.95749736)"><tspan
+                 sodipodi:role="line"
+                 id="tspan36-37-0-78"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+                 x="82.830009"
+                 y="103.22453">π</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g38"
+     inkscape:label="Left"
+     style="display:inline"
+     transform="rotate(-49.173098,68.030445,90.326547)"
+     inkscape:transform-center-x="-31.717815"
+     inkscape:transform-center-y="-7.7190547"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:0.497409;stroke:#e89db0;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5875, 1.05833;stroke-dashoffset:0.370417;stroke-opacity:1"
+       d="M 84.238324,18.099136 36.644714,38.051272 84.59297,84.54671 Z"
+       id="path34"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="triangle"
+       inkscape:transform-center-x="33.581331"
+       inkscape:transform-center-y="-20.543755"
+       sodipodi:insensitive="true" />
+    <g
+       id="g37-1-4"
+       transform="rotate(46.533459,107.22132,83.771822)"
+       inkscape:label="angle-text-group"
+       style="display:inline">
+      <g
+         id="g37-74-8-058"
+         transform="rotate(-0.11326633,-72.212531,1024.0448)">
+        <g
+           id="g43-0-92"
+           transform="translate(-1.4689778,-0.63187427)"
+           style="display:inline">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.441536"
+             y="101.96624"
+             id="text34-0-8-3"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan34-0-8-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.441536"
+               y="101.96624">4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.261604"
+             y="104.97138"
+             id="text35-87-1-6"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan35-6-7-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.261604"
+               y="104.97138">15</tspan></text>
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#e89db0;stroke-width:0.188486;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:1"
+             d="m 82.276169,97.950356 2.931427,0.138654"
+             id="path35-4-2-3" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="82.830009"
+             y="103.22453"
+             id="text36-6-3-6"
+             transform="scale(1.0443893,0.95749736)"><tspan
+               sodipodi:role="line"
+               id="tspan36-37-0-66"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="82.830009"
+               y="103.22453">π</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g42"
+     inkscape:label="BottomLeft"
+     style="display:inline"
+     transform="rotate(-49.173098,68.030445,90.326547)"
+     inkscape:transform-center-x="-31.717815"
+     inkscape:transform-center-y="-7.7190547"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:0.497409;stroke:#e89db0;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5875, 1.05833;stroke-dashoffset:0.370417;stroke-opacity:1"
+       d="M 36.802096,38.20497 17.825388,91.017399 84.59297,84.54671 Z"
+       id="path38"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="triangle"
+       inkscape:transform-center-x="33.034894"
+       inkscape:transform-center-y="25.849147" />
+    <g
+       id="g37-1-74"
+       transform="rotate(46.533459,97.327482,80.150161)"
+       inkscape:label="angle-text-group"
+       style="display:inline">
+      <g
+         id="g37-74-8-2"
+         transform="rotate(-0.11326633,-72.212531,1024.0448)">
+        <g
+           id="g43-0-0"
+           transform="translate(-1.4689778,-0.63187427)"
+           style="display:inline">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.441536"
+             y="101.96624"
+             id="text34-0-8-25"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan34-0-8-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.441536"
+               y="101.96624">4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="80.261604"
+             y="104.97138"
+             id="text35-87-1-2"
+             transform="scale(1.0443893,0.95749735)"><tspan
+               sodipodi:role="line"
+               id="tspan35-6-7-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="80.261604"
+               y="104.97138">15</tspan></text>
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#e89db0;stroke-width:0.188486;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:1"
+             d="m 82.276169,97.950356 2.931427,0.138654"
+             id="path35-4-2-2" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;line-height:1.65;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:11;stroke-opacity:0.818653"
+             x="82.830009"
+             y="103.22453"
+             id="text36-6-3-3"
+             transform="scale(1.0443893,0.95749736)"><tspan
+               sodipodi:role="line"
+               id="tspan36-37-0-77"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.26432px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e89db0;fill-opacity:1;stroke:none;stroke-width:0.394823"
+               x="82.830009"
+               y="103.22453">π</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
