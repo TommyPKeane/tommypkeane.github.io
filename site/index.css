@@ -34,6 +34,24 @@
 
   .main-img-button {
     width: 20vw;
+    border-radius: 1vw;
+  }
+
+  .main-img-button:hover {
+    background-color: var(--feverdream-brown);
+    box-shadow:
+      -3px 3px 8px var(--feverdream-white),
+      inset 3px 0px 2px var(--feverdream-white);
+    animation: 1.250s linear 0.250s infinite alternate squeeze_box;
+
+  }
+  @keyframes squeeze_box {
+    from {
+      transform: scale(0.95) rotate(2.5deg);
+    }
+    to {
+      transform: scale(1.05) rotate(-2.5deg);
+    }
   }
 
   .main-img-button img {
