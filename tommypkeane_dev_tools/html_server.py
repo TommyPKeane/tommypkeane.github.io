@@ -42,9 +42,19 @@ class SiteServerHandler(http.server.SimpleHTTPRequestHandler):
         return None
 
     def do_GET(self) -> None:
-        module_logger.debug(self.headers)
-        http.server.SimpleHTTPRequestHandler.do_GET(self)
-        return None
+        module_logger.info(self.headers)
+        return super().do_GET()
+
+    def end_headers(self):
+        self.send_header("Access-Control-Allow-Origin", "localhost")
+        self.send_header("Access-Control-Allow-Headers", "Origin,X-Requested-With,Content-Type,Accept,Authorization")
+        self.send_header("Access-Control-Allow-Methods", "DELETE,GET,OPTIONS,POST,PUT")
+        self.send_header("Cache-Control", "no-store,no-cache,must-revalidate")
+        self.send_header("Cross-Origin-Opener-Policy", "same-origin")
+        self.send_header("Cross-Origin-Opener-Policy-Report-Only", "same-origin")
+        self.send_header("Cross-Origin-Embedder-Policy", "require-corp")
+        self.send_header("Cross-Origin-Embedder-Policy-Report-Only", "require-corp")
+        return super().end_headers()
 
 
 def localhost_socketserver(
